@@ -462,13 +462,13 @@
   "shaderpacks": [
     {
       "name": "BSL Shaders",
-      "file": "https://hanol0927.github.io/Ruxelmon-Launcher/shaderpacks/BSL_v10.0p1.zip",
+      "file": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/shaderpacks/BSL_v10.0p1.zip",
       "size": 1121557,
       "MD5": "4f7e27189aa43c45536d63eb3c234a83"
     },
     {
       "name": "Sildur’s Vibrant Shaders Extreme-VL",
-      "file": "https://hanol0927.github.io/Ruxelmon-Launcher/shaderpacks/Sildurs_Vibrant_Shaders_v1.52_Extreme-VL.zip",
+      "file": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/Sildurs_Vibrant_Shaders_v1.52_Extreme-VL.zip",
       "size": 142504,
       "MD5": "82a198c41b07f33a7ebb1b9d27ada3f0"
     }
@@ -476,13 +476,13 @@
   "resourcepacks": [
     {
       "name": "리소스팩 1",
-      "file": "https://hanol0927.github.io/Ruxelmon-Launcher/resourcepacks/리소스팩1.zip",
+      "file": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/resourcepacks/리소스팩1.zip",
       "size": 481812,
       "MD5": "3343b5344e57084a596b86ba674f014f"
     },
     {
       "name": "리소스팩 2",
-      "file": "https://hanol0927.github.io/Ruxelmon-Launcher/resourcepacks/리소스팩2.zip",
+      "file": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/resourcepacks/리소스팩2.zip",
       "size": 20109843,
       "MD5": "0629d16b6b9d7deaf79ba3d3fb5e9f99"
     }
