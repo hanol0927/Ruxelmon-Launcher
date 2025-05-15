@@ -357,12 +357,12 @@
           ]
         },
         {
-          "id": "moe.plushie.armourers_workshop.init.platform:armourers_workshop:2.0.0-beta.3@jar",
+          "id": "moe.plushie.armourers_workshop.init.platform:armourersworkshop-forge-1.16.5-3.2.0-beta@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
             "size": 3004148,
-            "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.0.0-beta.3.jar",
+            "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-3.2.0-beta.jar",
             "MD5": "727b6784e73f1daf97f4a64629c06c98"
           }
         },
