@@ -471,11 +471,13 @@
         {
           "id": "러켓몬 리소스팩",
           "path": "resourcepacks/러켓몬.zip",
+          "destination": "resourcepacks/러켓몬.zip",
           "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/러켓몬.zip"
         },
         {
           "id": "Sildurs 쉐이더팩",
           "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Extreme-VL.zip",
+          "destination": "shaderpacks/Sildur's Vibrant Shaders v1.52 Extreme-VL.zip",
           "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/shaderpacks/Sildur%27s%20Vibrant%20Shaders%20v1.52%20Extreme-VL.zip"
         }
       ]
