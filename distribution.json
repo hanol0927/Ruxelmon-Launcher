@@ -456,6 +456,28 @@
             "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/forgemods/required/OptiForge-MC1.16.4-0.4.6.jar"
           }
         }
+      ],
+      "externalFiles": [
+        {
+          "id": "options.txt",
+          "path": "options.txt",
+          "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/forgemods/config/options.txt"
+        },
+        {
+          "id": "optionsshaders.txt",
+          "path": "optionsshaders.txt",
+          "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/forgemods/config/optionsshaders.txt"
+        },
+        {
+          "id": "러켓몬 리소스팩",
+          "path": "resourcepacks/러켓몬.zip",
+          "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/러켓몬.zip"
+        },
+        {
+          "id": "Sildurs 쉐이더팩",
+          "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Extreme-VL.zip",
+          "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/shaderpacks/Sildur%27s%20Vibrant%20Shaders%20v1.52%20Extreme-VL.zip"
+        }
       ]
     }
   ]
