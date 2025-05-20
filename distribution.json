@@ -439,7 +439,7 @@
         {
           "id": "optifine:OptiFine:1.16.5_HD_U_G8",
           "name": "OptiFine HD U G8",
-          "type": "ForgeMod",
+          "type": "Library",
           "artifact": {
             "size": 695632,
             "MD5": "0ef6d3ffeb2b5e7c91df69eb063249fb",
