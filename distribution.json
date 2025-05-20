@@ -459,7 +459,7 @@
         {
           "id": "custom:resourcepack_ruxelmon",
           "name": "러켓몬 리소스팩",
-          "type": "ResourcePack",
+          "type": "File",
           "artifact": {
             "size": 2438260,
             "MD5": "22c3ed1bfcb8ab9201c44b46204dff68",
@@ -470,7 +470,7 @@
         {
           "id": "custom:shaderpack_sildurs",
           "name": "Sildur's Vibrant Shaders Extreme-VL",
-          "type": "ShaderPack",
+          "type": "File",
           "artifact": {
             "size": 142504,
             "MD5": "82a198c41b07f33a7ebb1b9d27ada3f0",
