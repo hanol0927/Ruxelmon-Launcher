@@ -455,30 +455,50 @@
             "MD5": "79c3502f43ae2c2337857760b690b0c9",
             "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/forgemods/required/OptiForge-MC1.16.4-0.4.6.jar"
           }
-        }
-      ],
-      "externalFiles": [
-        {
-          "id": "options.txt",
-          "path": "options.txt",
-          "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/forgemods/config/options.txt"
         },
         {
-          "id": "optionsshaders.txt",
-          "path": "optionsshaders.txt",
-          "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/forgemods/config/optionsshaders.txt"
+          "id": "custom:resourcepack_ruxelmon",
+          "name": "러켓몬 리소스팩",
+          "type": "ResourcePack",
+          "artifact": {
+            "size": 2438260,
+            "MD5": "22c3ed1bfcb8ab9201c44b46204dff68",
+            "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/resourcepacks/러켓몬.zip"
+          },
+          "targetPath": "resourcepacks/러켓몬.zip"
         },
         {
-          "id": "러켓몬 리소스팩",
-          "path": "resourcepacks/러켓몬.zip",
-          "destination": "resourcepacks/러켓몬.zip",
-          "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/러켓몬.zip"
+          "id": "custom:shaderpack_sildurs",
+          "name": "Sildur's Vibrant Shaders Extreme-VL",
+          "type": "ShaderPack",
+          "artifact": {
+            "size": 142504,
+            "MD5": "82a198c41b07f33a7ebb1b9d27ada3f0",
+            "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/shaderpacks/Sildur's Vibrant Shaders v1.52 Extreme-VL.zip"
+          },
+          "targetPath": "shaderpacks/Sildur's Vibrant Shaders v1.52 Extreme-VL.zip"
         },
         {
-          "id": "Sildurs 쉐이더팩",
-          "path": "shaderpacks/Sildur's Vibrant Shaders v1.52 Extreme-VL.zip",
-          "destination": "shaderpacks/Sildur's Vibrant Shaders v1.52 Extreme-VL.zip",
-          "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/shaderpacks/Sildur%27s%20Vibrant%20Shaders%20v1.52%20Extreme-VL.zip"
+          "id": "custom:options",
+          "name": "Client Options",
+          "type": "File",
+          "artifact": {
+            "size": 5754,
+            "MD5": "7bebc803a961645a5c9848fe63beddd6",
+            "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/forgemods/config/options.txt"
+          },
+          "targetPath": "options.txt"
+        },
+        {
+          "id": "custom:optionsshaders",
+          "name": "Shader Options",
+          "type": "File",
+          "artifact": {
+            "size": 366,
+            "MD5": "6eda701beca1eb7504f4d891573bf2fb",
+            "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/forgemods/config/optionsshaders.txt"
+          },
+          "targetPath": "config/optionsshaders.txt"
         }
       ]
     }
