@@ -445,6 +445,16 @@
             "MD5": "0ef6d3ffeb2b5e7c91df69eb063249fb",
             "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G8.jar"
           }
+        },
+        {
+          "id": "optiforge:optiforge:1.16.5-0.4.6",
+          "name": "OptiForge 1.16.5-0.4.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 113586,
+            "MD5": "79c3502f43ae2c2337857760b690b0c9",
+            "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/forgemods/required/OptiForge-MC1.16.4-0.4.6.jar"
+          }
         }
       ]
     }
