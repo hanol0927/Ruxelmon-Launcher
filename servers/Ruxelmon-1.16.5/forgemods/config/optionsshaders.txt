@@ -1,5 +1,5 @@
 #Tue May 20 17:49:30 KST 2025
-shaderPack=Sildur
+shaderPack=Sildur.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
