@@ -459,7 +459,7 @@
         {
           "id": "custom:resourcepack_ruxelmon",
           "name": "러켓몬 리소스팩",
-          "type": "Library",
+          "type": "File",
           "artifact": {
             "size": 2438260,
             "MD5": "22c3ed1bfcb8ab9201c44b46204dff68",
@@ -470,7 +470,7 @@
         {
           "id": "custom:shaderpack_sildurs",
           "name": "Sildur",
-          "type": "Library",
+          "type": "File",
           "artifact": {
             "size": 142504,
             "MD5": "82a198c41b07f33a7ebb1b9d27ada3f0",
@@ -481,7 +481,7 @@
         {
           "id": "custom:options",
           "name": "Client Options",
-          "type": "Library",
+          "type": "File",
           "artifact": {
             "size": 5754,
             "MD5": "7bebc803a961645a5c9848fe63beddd6",
@@ -492,7 +492,7 @@
         {
           "id": "custom:optionsshaders",
           "name": "Shader Options",
-          "type": "Library",
+          "type": "File",
           "artifact": {
             "size": 366,
             "MD5": "6eda701beca1eb7504f4d891573bf2fb",
