@@ -499,6 +499,15 @@
             "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/forgemods/config/optionsshaders.txt"
           },
           "targetPath": "optionsshaders.txt"
+        },
+        {
+          "id": "test_missing_file",
+          "name": "테스트용",
+          "type": "File",
+          "artifact": {
+            "url": "https://yourdomain.com/this_does_not_exist.txt"
+          },
+          "targetPath": "resourcepacks/test.txt"
         }
       ]
     }
