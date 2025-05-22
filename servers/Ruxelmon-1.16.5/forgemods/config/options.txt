@@ -33,7 +33,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","white_icons","classic_icons","black_icons","러켓몬.zip"]
+resourcePacks:["vanilla","mod_resources","white_icons","classic_icons","black_icons","file/러켓몬.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr
