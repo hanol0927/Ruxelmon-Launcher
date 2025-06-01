@@ -11,7 +11,7 @@
       "id": "Ruxelmon-1.16.5",
       "name": "Ruxelmon (Minecraft 1.16.5)",
       "description": "Ruxelmon Running Minecraft 1.16.5 (Forge v36.2.39)",
-      "icon": "Icon.png",
+      "icon": "Icon",
       "version": "1.0.0",
       "address": "121.135.121.185:25565",
       "minecraftVersion": "1.16.5",
