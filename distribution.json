@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1378585488205680741",
+    "smallImageText": "러켓몬 서버 플레이중..",
+    "smallImageKey": "icon_1024x1024"
   },
   "servers": [
     {
@@ -16,9 +16,9 @@
       "address": "121.135.121.185:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "1378585488205680741",
+        "largeImageText": "1.16.5 러켓몬 서버",
+        "largeImageKey": "icon_1024x1024"
       },
       "mainServer": false,
       "autoconnect": true,
