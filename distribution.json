@@ -457,17 +457,6 @@
           }
         },
         {
-          "id": "custom:resourcepack_ruxelmon",
-          "name": "러켓몬 리소스팩",
-          "type": "File",
-          "artifact": {
-            "size": 2438260,
-            "MD5": "22c3ed1bfcb8ab9201c44b46204dff68",
-            "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/resourcepacks/러켓몬.zip"
-          },
-          "targetPath": "resourcepacks/러켓몬.zip"
-        },
-        {
           "id": "custom:shaderpack_sildurs",
           "name": "Sildur",
           "type": "File",
@@ -477,17 +466,6 @@
             "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/shaderpacks/Sildur.zip"
           },
           "targetPath": "shaderpacks/Sildur.zip"
-        },
-        {
-          "id": "custom:options",
-          "name": "Client Options",
-          "type": "File",
-          "artifact": {
-            "size": 5754,
-            "MD5": "7bebc803a961645a5c9848fe63beddd6",
-            "url": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/forgemods/config/options.txt"
-          },
-          "targetPath": "options.txt"
         },
         {
           "id": "custom:optionsshaders",
