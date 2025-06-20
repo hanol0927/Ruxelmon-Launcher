@@ -13,7 +13,7 @@
       "description": "Ruxelmon Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://hanol0927.github.io/Ruxelmon-Launcher/servers/Ruxelmon-1.16.5/Icon.png",
       "version": "1.0.0",
-      "address": "34.64.198.25:25565",
+      "address": "211.54.125.142:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "1378585488205680741",
